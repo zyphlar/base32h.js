@@ -1,6 +1,7 @@
 // @license magnet:?xt=urn:btih:b8999bbaf509c08d127678643c515b9ab0836bae&dn=ISC.txt ISC
 
 // *sigh*
+/// it's gonna be ok, YellowApple, we're here for you
 (function (root, factory) {
     if (typeof define === 'function' && define.amd) {
         define([], factory);  // AMD
